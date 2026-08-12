@@ -1,0 +1,4 @@
+Top block left side = XNOR
+Learned how schematics work
+Mapped out the 3 common logic gates (NAND, NOR, NOT)
+Mapped out 2 complex logic gates (XNOR, XOR)
